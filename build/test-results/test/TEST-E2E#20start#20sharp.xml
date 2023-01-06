@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="E2E start sharp" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-05T22:05:31" hostname="CHMEPPF1FSKYK" time="147.024">
+<testsuite name="E2E start sharp" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-06T00:40:52" hostname="CHMEPPF1FSKYK" time="155.491">
   <properties/>
-  <testcase name="Crear unidad de negocio exitoso" classname="E2E start sharp" time="85.888"/>
-  <testcase name="Crear reunion exitoso" classname="E2E start sharp" time="61.136"/>
+  <testcase name="Crear unidad de negocio exitoso" classname="E2E start sharp" time="72.561"/>
+  <testcase name="Crear reunion exitoso" classname="E2E start sharp" time="82.93"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 14625
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 41041
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-ene 05, 2023 5:06:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ene 05, 2023 7:41:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
-Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 18321
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 6320
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-ene 05, 2023 5:07:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ene 05, 2023 7:42:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
